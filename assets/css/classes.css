@@ -15,6 +15,13 @@
   color: var(--white-color);
 }
 
+.blue-pg-color-bg {
+  background-image: url("../img/svg-ref/Prancheta\ 1\ copiar\ 6.png");
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
 .main-content {
   max-width: 120rem;
   margin: 0 auto;
